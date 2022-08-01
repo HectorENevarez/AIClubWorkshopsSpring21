@@ -35,6 +35,7 @@ Here I left resources that I have created or used when learning different AI con
 - [Introduction To Python:](https://hectorenevarez.github.io/AIClubWorkshopsFall20/Workshop1/python_tutorial) a simple tutorial I created : [**Video Version**](https://www.youtube.com/watch?v=jXLiFqFxmO4&feature=youtu.be)
 - [Advanced Python:](https://hectorenevarez.github.io/AIClubWorkshopsFall20/Workshop2/Advanced_python.html) a more advanced Python tutorial I created : [**Video Version**](https://www.youtube.com/watch?v=xy09XNUykho&feature=youtu.be)
 - [Learn Python Programming:](https://www.programiz.com/python-programming) A website that teaches Python in detail
+- [Python Tutorial](https://www.scaler.com/topics/python/) A complete Python tutorial for beginners
 
 #### Computer Vision
 - My Computer Vision Series of workshops from Fall 2020
